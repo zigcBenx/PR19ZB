@@ -14,6 +14,7 @@
 <br>
 <p>Na Google play storu je naloženih več miljonov aplikacij, ki druga drugi konkurirajo v različnih kategorijah.
   <br>
+<h6>Pomembnejši cliji oz. vprašanja:</h6>
 S to raziskavo bi rad ugotovil, kakšne aplikacije dobivajo največ prenosov, najboljše ocene itd.
 Zanima me ali je lahko aplikacija uspešnejša, če se razvijalec drži nekih priporočil, ki jih bi določil ob tej projektni nalogi(katera kategorija ima nejveč prenosov, v katerem času se aplikacije najbolj prenašajo, ali se splača naložiti plačljive aplikacije,...).</p>
 
