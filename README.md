@@ -9,18 +9,9 @@
   <li>Žiga Benko 63170052</li>
 </ul>
 
-<h6>Opis problema.</h6>
-<p>Google Play je ena največjih platform za deljenje mobilnih aplikacij, ki naj bi uporabniku izboljšale izkušnjo z njegovim mobilnim telefonom.</p>
-<br>
-<p>Na Google play storu je naloženih več miljonov aplikacij, ki druga drugi konkurirajo v različnih kategorijah.
-  <br>
-<h6>Pomembnejši cliji oz. vprašanja:</h6>
-S to raziskavo bi rad ugotovil, kakšne aplikacije dobivajo največ prenosov, najboljše ocene itd.
-Zanima me ali je lahko aplikacija uspešnejša, če se razvijalec drži nekih priporočil, ki jih bi določil ob tej projektni nalogi(katera kategorija ima nejveč prenosov, v katerem času se aplikacije najbolj prenašajo, ali se splača naložiti plačljive aplikacije,...).</p>
+<h3>Podatki</h3>
+<p>Kratek opis podatkov je bil predstavljen že v osnutku, tukaj pa bom nahitro še posebej opisal vse atribute in rešitve, ki jih nameravam predstaviti s pomočjo le teh. Gre se za podatke o aplikacijah naloženih na Google Play store, link do podatkov je <a href="https://www.kaggle.com/lava18/google-play-store-apps">tukaj</a>.</p>
+<p>Ker se mi zdi, da je na tem viru, kljub količini podatkov premalo atributov iz katerih bi lahko napovedal in razbral določene stvari, sem se odločil, da uporabim še drug vir podatkov o aplikacijah naloženih na Google Play, link do teh podatkov pa se nahaja <a href="https://old.datahub.io/dataset/google-play-statistics">tukaj</a>.</p>
 
 
-<h6><i>Viri:</i><h6>
-<ul>
-  <li><a href="https://old.datahub.io/dataset/google-play-statistics">Data hub</a></li>
-  <li><a href="https://www.kaggle.com/lava18/google-play-store-apps">Kaggle</a></li>
-</ul>
+
