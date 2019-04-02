@@ -38,12 +38,11 @@
 </ul>
 <p>Poleg osnovne datoteke, ki vsebuje podane atribute, je še ena datoteka v kateri so shranjeni "reviewi" ~ mnenja uporabnikov in ali je bilo podano mnenje pozitivno ali negativno.</p>
 
-<h3>Kaj me zanima?</h3>
+<h3>Kaj me zanima? (Cilji)</h3>
 <ul>
   <li>Lastnosti popularnih aplikacij,</li>
   <li>ocene določene aplikacije po državah,</li>
-  <li>katera verzija sistema android se največkrat sesuje,</li>
-  <li>odvisnosti atributov.</li>
+  <li>Ali ima sesutje aplikacije povezavo z verzijo androida ali le z verzijo aplikacije</li>
 </ul>
 <h3>Pridobivanje podatkov</h3>
 <p>Ker so vsi podatki hranjeni v formatu CSV, je njihovo branje še toliko enostavnejše in pregledno prebrati z Pythonovo knjižnico Pandas.</p>
