@@ -48,5 +48,6 @@
 <h3>Pridobivanje podatkov</h3>
 <p>Ker so vsi podatki hranjeni v formatu CSV, je njihovo branje še toliko enostavnejše in pregledno prebrati z Pythonovo knjižnico Pandas.</p>
 <code>data = pd.read_csv("kaggle/googleplaystore.csv")</code>
+<img src="images/tabela1.jpg"/>
 <br>
 <p>Seveda je bilo potrebno tudi preveriti, če so kakšni vnosi brez vrednosti (nastavljeni na null) in le te tudi odstraniti, saj bi lahko zavajali pri analizi rezultatov.</p>
