@@ -51,3 +51,7 @@
 <img src="images/tabela.png"/>
 <br>
 <p>Seveda je bilo potrebno tudi preveriti, če so kakšni vnosi brez vrednosti (nastavljeni na null) in le te tudi odstraniti, saj bi lahko zavajali pri analizi rezultatov.</p>
+<br>
+<h3>Nekaj vizualnih predstavitev</h3>
+<p>Prikazan delež plačjivih in brezplačnih aplikacij, jasno je razvidno da prevladujejo brezplačne aplikacije, saj te služijo s pomočjo oglasov, ki se pojavljajo med samim delovanjem aplikacije.</p>
+<img src="images/graf.png"/>
