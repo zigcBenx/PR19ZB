@@ -58,3 +58,6 @@
 <br>
 <p>Prikazan delež kategorij pri plačljivih aplikacijah.</p>
 <img src="images/graf2.png"/>
+<br>
+<p>Prikaz splošnega zadovoljstva uporabnikov z aplikacijami na Google Play Store.</p>
+<img src="images/graf3.png"/>
