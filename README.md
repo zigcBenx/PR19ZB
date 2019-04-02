@@ -22,17 +22,17 @@
 
 <p>Vsak podatek v zbirki ima sledeče atribute:</p>
 <ul>
-  <li><i>App:</i></li>
-  <li><i>Category:</i></li>
-  <li><i>Rating:</i></li>
-  <li><i>Reviews:</i></li>
-  <li><i>Size:</i></li>
-  <li><i>Installs:</i></li>
-  <li><i>Type:</i></li>
-  <li><i>Prize:</i></li>
-  <li><i>Content Rating:</i></li>
-  <li><i>Genres:</i></li>
-  <li><i>Content Last Updated:</i></li>
-  <li><i>Cur Ver:</i></li>
-  <li><i>Android Ver:</i></li>
+  <li><i>App: </i>ime aplikacije.</li>
+  <li><i>Category: </i>kategorija kamor aplikacija spada.</li>
+  <li><i>Rating: </i>skupna ocena uporabnikov.</li>
+  <li><i>Reviews: </i>število mnenj, ki so jih podali uporabniki o tej aplikaciji.</li>
+  <li><i>Size: </i>Velikost aplikacije.</li>
+  <li><i>Installs: </i>Število prenosov/inštalacij aplikacije.</li>
+  <li><i>Type: </i>Ali je aplikacija plačljiva ali brezplačna.</li>
+  <li><i>Prize: </i>Cena aplikacije, če je le ta plačljiva.</li>
+  <li><i>Content Rating: </i>Starostna skupina na katero aplikacije cilja.</li>
+  <li><i>Genres: </i>Žanr kamor spada aplikacija (spada lahko v več žanrov hkrati).</li>
+  <li><i>Content Last Updated:</i> Datum, ko je bila aplikacija nazadnje posodobljena na Google Play store.</li>
+  <li><i>Cur Ver:</i> Trenutna verzija objavljene aplikacije.</li>
+  <li><i>Android Ver:</i> Najmanjša zahtevana verzija sistema Android na katerem aplikacija lahko deluje.</li>
 </ul>
