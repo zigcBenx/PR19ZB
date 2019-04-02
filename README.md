@@ -36,3 +36,17 @@
   <li><i>Cur Ver:</i> Trenutna verzija objavljene aplikacije.</li>
   <li><i>Android Ver:</i> Najmanjša zahtevana verzija sistema Android na katerem aplikacija lahko deluje.</li>
 </ul>
+<p>Poleg osnovne datoteke, ki vsebuje podane atribute, je še ena datoteka v kateri so shranjeni "reviewi" ~ mnenja uporabnikov in ali je bilo podano mnenje pozitivno ali negativno.</p>
+
+<h3>Kaj me zanima?</h3>
+<ul>
+  <li>Lastnosti popularnih aplikacij,</li>
+  <li>ocene določene aplikacije po državah,</li>
+  <li>katera verzija sistema android se največkrat sesuje,</li>
+  <li>odvisnosti atributov.</li>
+</ul>
+<h3>Pridobivanje podatkov</h3>
+<p>Ker so vsi podatki hranjeni v formatu CSV, je njihovo branje še toliko enostavnejše in pregledno prebrati z Pythonovo knjižnico Pandas.</p>
+<code>data = pd.read_csv("kaggle/googleplaystore.csv")</code>
+<br>
+<p>Seveda je bilo potrebno tudi preveriti, če so kakšni vnosi brez vrednosti (nastavljeni na null) in le te tudi odstraniti, saj bi lahko zavajali pri analizi rezultatov.</p>
