@@ -38,13 +38,6 @@
 </ul>
 <p>Poleg osnovne datoteke, ki vsebuje podane atribute, je še ena datoteka v kateri so shranjeni "reviewi" ~ mnenja uporabnikov in ali je bilo podano mnenje pozitivno ali negativno.</p>
 
-<h3>Kaj me zanima? (Cilji)</h3>
-<ul>
-  <li>Lastnosti popularnih aplikacij,</li>
-  <li>ocene določene aplikacije po državah,</li>
-  <li>Korelacija med ceno aplikacije in zadovoljstvom uporabnikov.</li>
-  <li>Ali ima sesutje aplikacije povezavo z verzijo androida ali le z verzijo aplikacije</li>
-</ul>
 <h3>Pridobivanje podatkov</h3>
 <p>Ker so vsi podatki hranjeni v formatu CSV, je njihovo branje še toliko enostavnejše in pregledno prebrati z Pythonovo knjižnico Pandas.</p>
 <code>data = pd.read_csv("kaggle/googleplaystore.csv")</code>
@@ -61,3 +54,11 @@
 <br>
 <p>Prikaz splošnega zadovoljstva uporabnikov z aplikacijami na Google Play Store.</p>
 <img src="images/graf3.png"/>
+
+<h3>Kaj me zanima? (Cilji)</h3>
+<ul>
+  <li>Lastnosti popularnih aplikacij,</li>
+  <li>ocene določene aplikacije po državah,</li>
+  <li>Korelacija med ceno aplikacije in zadovoljstvom uporabnikov.</li>
+  <li>Ali ima sesutje aplikacije povezavo z verzijo androida ali le z verzijo aplikacije</li>
+</ul>
