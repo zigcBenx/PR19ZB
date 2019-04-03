@@ -42,6 +42,7 @@
 <ul>
   <li>Lastnosti popularnih aplikacij,</li>
   <li>ocene določene aplikacije po državah,</li>
+  <li>Korelacija med ceno aplikacije in zadovoljstvom uporabnikov.</li>
   <li>Ali ima sesutje aplikacije povezavo z verzijo androida ali le z verzijo aplikacije</li>
 </ul>
 <h3>Pridobivanje podatkov</h3>
