@@ -54,6 +54,8 @@
 <br>
 <p>Prikaz splošnega zadovoljstva uporabnikov z aplikacijami na Google Play Store.</p>
 <img src="images/graf3.png"/>
+<br>
+<img src="images/graf4.png"/>
 
 <h3>Kaj me zanima? (Cilji)</h3>
 <ul>
